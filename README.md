@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WinoskyJean
 - 👀 I’m interested in data 
 - 🌱 I’m currently learning about motor cycles & Unreal Engine
-- 💞️ I’m looking to collaborate on developing the next game
+- 💞️ I’m looking to collaborate on developing data visualizations or the next game
 - 📫 How to reach me is through winosky.jean@gmail.com
 
 <!---
